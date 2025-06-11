@@ -1,8 +1,8 @@
 # Claude 中文版：Claude 4 Sonnet 国内使用指南~ 【6月最新更新】
 
-> **更新时间：2025-06-11**                
+> **更新时间：2025-06-12**                
 
-全面体验 [**Claude 中文版**](https://chat.lanjingai.org)，**国内直连，无需翻墙**，**支持 Claude 3.7 Sonnet 及中文版功能**   
+全面体验 [**Claude 中文版**](https://chat.lanjingai.org)，**国内直连，无需翻墙**，**支持 Claude 4 Sonnet 及中文版功能**   
 
 本指南提供全面的 **Claude 国内使用指南**，包括国内可用的 [**Claude 官网入口**](https://chat.lanjingai.org)、[**Claude 网页版**](https://xsimplechat.com)、[**Claude 国内镜像网站**](https://chat.lanjingai.org) 和详细的使用教程，助您快速上手 Claude~
 
@@ -17,7 +17,7 @@
 
 - **无需翻墙**：通过国内网站访问，无需额外的代理工具。
 - **中文优化**：提供更自然流畅的中文对话，适用于学习、工作和日常生活。
-- **功能强大**：支持最新的 **Claude 3.7 sonnet**，具有高效的推理模型。
+- **功能强大**：支持最新的 **Claude 4 sonnet**，具有高效的推理模型。
 
 ---
 
@@ -50,7 +50,7 @@
 
 1. **选择网页版**：访问推荐的国内入口（如 **一下AI ([chat.yixiaai.com](https://chat.lanjingai.org))**）。
 2. **扫码登录**：使用扫码功能登录，进入聊天页面，输入问题即可获得回答。
-3. **选择模型**：根据需求选择 **claude-3.7-sonnet** 模型。
+3. **选择模型**：根据需求选择 **claude-4-sonnet** 模型。
 4. **开始对话**：享受流畅的中文聊天体验，支持写作、编程、翻译、办公等多种功能。
 
 ---
